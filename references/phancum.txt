@@ -1,3 +1,4 @@
 phân cụm (k.mean)
 (tìm z min)
 phân cụm k mean
+Them du lieu
