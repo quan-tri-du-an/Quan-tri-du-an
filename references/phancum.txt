@@ -6,3 +6,4 @@ Phan cum theo GMM
 Phan cum theo k mean 
 Phaan cum theo x mean
 Uoc luong cum BIC
+outlier detection
