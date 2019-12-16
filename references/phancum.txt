@@ -3,3 +3,4 @@ phân cụm (k.mean)
 phân cụm k mean
 Them du lieu
 Phan cum theo GMM 
+Phan cum theo k mean 
