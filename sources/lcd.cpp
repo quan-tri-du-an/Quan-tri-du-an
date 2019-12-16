@@ -32,4 +32,12 @@ void LCD_init()
 	LCD_Send_Command(0x0E);
 	LCD_Send_Command(0x01); //Xoa man hinh
 	LCD_Send_Command(0x80); //Ve dau dong
+}	LCD_DATA=x;
+	RS=0; //Chon thanh ghi lenh
+	RW=0; //De ghi du lieu
+	EN=1;
+	Delay_ms(1);
+	EN=0;
+	Wait_For_LCD(); //Doi cho LCD san sang
+	EN=1;
 }

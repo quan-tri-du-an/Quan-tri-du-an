@@ -1,2 +1,8 @@
 phân cụm (k.mean)
 (tìm z min)
+(tìm z min)
+(tìm z min)
+(tìm z min)
+(tìm z min)
+(tìm z min)
+(tìm z min)
