@@ -24,13 +24,3 @@ Model: 0 (UNKNOWN), Power: On, Mode: 3 (Cool), Temp: 16C, Fan: 0 (Low), Swing(V)
 
 Model: 0 (UNKNOWN), Power: On, Mode: 4 (Heat), Temp: 16C, Fan: 0 (Low), Swing(V): 15 (Auto), Swing(H): 8 (UNKNOWN), Quiet: Off, Powerful: Off, Clock: 00:00, On Timer: Off, Off Timer: Off
 h),
- Swing(V): 15 (Auto),
- Swing(H): 8 (UNKNOWN),
- Quiet: Off,
- Powerful: Off,
- Clock: 00:00, h),
- Swing(V): 15 (Auto),
- Swing(H): 8 (UNKNOWN),
- Quiet: Off,
- Powerful: Off,
- Clock: 00:00, 
